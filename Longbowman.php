@@ -39,7 +39,7 @@
               href="Cavalry_Archer.php">馬弓騎兵</a>與移動快速騎兵單位，難以發揮效果。</p>
             <p>長弓手最好選擇堅守崗位模式，避免隨意地攻擊後，破壞本身的陣型讓敵人趁虛而入。由於<a href="Britons.php">不列顛人</a>缺乏
               <a
-              href="Thumb _Ring.php">拇指環</a>科技，缺乏100%命中率與提升攻擊速度，最好避免與其他擁有<a href="Thumb _Ring.php">拇指環</a>科技的弓手對射。</p>
+              href="Thumb_Ring.php">拇指環</a>科技，缺乏100%命中率與提升攻擊速度，最好避免與其他擁有<a href="Thumb_Ring.php">拇指環</a>科技的弓手對射。</p>
             <p>長弓手在面對<a href="Siege_Weapons.php">攻城器</a>，例如<a href="Siege_Onager.php">重型投石車</a>與
               <a
               href="Heavy_Scorpion.php">重型弩砲</a>時，能夠在攻城器攻擊範圍外先摧毀目標。但長弓手在攻城器的攻擊範圍下，將會承受毀滅性的打擊。</p>
@@ -95,7 +95,7 @@
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:對移動目標命中率上升</td>
+                <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
@@ -221,7 +221,7 @@
               <img class="gg" src="img/Chemistry.jpg" width="30"
               alt=""><a href="Chemistry.php">化學</a>和
               <img class="gg" src="img/Ballistics.jpg"
-              width="30" alt=""><a href="Ballistic.php">彈道學</a>研究快80%。</li>
+              width="30" alt=""><a href="Ballistics.php">彈道學</a>研究快80%。</li>
             <li><a href="Saracens.php">薩拉森</a>：長弓兵對<a href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+1。</li>
             <li><a href="Teutons.php">條頓</a>：長弓兵抵抗招降能力增加。</li>
           </ul>
@@ -229,7 +229,7 @@
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+          <h3><em><a href="aok.php">帝王世紀</a></em></h3>
           <ul>
             <li>訓練時間為19秒。</li>
           </ul>

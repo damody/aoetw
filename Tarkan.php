@@ -55,7 +55,7 @@
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
               <td class="tta4"><a href="Archer_Units.php">弓兵</a>、<a href="Siege_Weapons.php">攻城器單位</a>、
                 <a
-                href="Light_Cavalry.php">輕騎兵</a>、<a href="bulding.php">建築物</a>。</td>
+                href="Light_Cavalry.php">輕騎兵</a>、<a href="Armor_class_building.php">建築物</a>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -373,9 +373,9 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+12對<a href="Armor_class_stone_defense.php">石材建築類</a>
-                <br>+10對<a href="Armor_Class_Castle.php">城堡</a>
-                <br>+8/+10(精銳)對<a href="Armor_Class_Building.php">建築類</a>
-                <br>+8/+10(精銳)對<a href="Armor_Class_Wall_and_Gate.php">城牆和城門</a>
+                <br>+10對<a href="Armor_class_Castle.php">城堡</a>
+                <br>+8/+10(精銳)對<a href="Armor_class_building.php">建築類</a>
+                <br>+8/+10(精銳)對<a href="Armor_class_wall_and_gate.php">城牆和城門</a>
               </td>
             </tr>
             <tr>
@@ -383,7 +383,7 @@
               <td class="unit4">2.13</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="">近防</a>
+              <td class="unit3">近防</a>
               </td>
               <td class="unit4">1</td>
             </tr>
@@ -398,7 +398,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit3"><a href="">跑速</a>
+              <td class="unit3">跑速</a>
               </td>
               <td class="unit4">1.35</td>
             </tr>

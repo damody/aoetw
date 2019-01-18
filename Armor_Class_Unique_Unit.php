@@ -197,15 +197,15 @@
                   </ul>
                   <ul>
                     <li>
-                      <img class="gg" src="img/GenitourIcon.jpg" alt=""><a href="GenitourIcon.php">標槍騎兵</a>→
+                      <img class="gg" src="img/GenitourIcon.jpg" alt=""><a href="Genitour.php">標槍騎兵</a>→
                       <img class="gg" src="img/GenitourIcon.jpg"
-                      alt=""><a href="GenitourIcon.php">精銳標槍騎兵</a>(<a href="Berbers.php">柏柏</a>限定)</li>
+                      alt=""><a href="Genitour.php">精銳標槍騎兵</a>(<a href="Berbers.php">柏柏</a>限定)</li>
                   </ul>
                   <ul>
                     <li>
                       <img class="gg" src="img/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">彎刀勇士</a>→
                       <img class="gg" src="img/ShotelIcon.png"
-                      alt=""><a href="Shotel_Warrior.php">精銳彎刀勇士</a>(<a href="Eithopians.php">衣索比亞</a>限定)</li>
+                      alt=""><a href="Shotel_Warrior.php">精銳彎刀勇士</a>(<a href="Ethiopians.php">衣索比亞</a>限定)</li>
                   </ul>
                   <ul>
                     <li>
@@ -215,8 +215,8 @@
                   </ul>
                   <ul>
                     <li>
-                      <img src="img/OrganGunIcon.jpg" alt=""><a href="OrganGunIcon.php">風琴炮</a>→
-                      <img src="img/OrganGunIcon.jpg" alt=""><a href="OrganGunIcon.php">精銳風琴炮</a>(<a href="Portugese.php">葡萄牙</a>限定)</li>
+                      <img src="img/OrganGunIcon.jpg" alt=""><a href="Organ_Gun.php">風琴炮</a>→
+                      <img src="img/OrganGunIcon.jpg" alt=""><a href="Organ_Gun.php">精銳風琴炮</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
                   </ul>
                   <ul>
                     <li>

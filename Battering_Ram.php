@@ -80,7 +80,7 @@
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+20%。</td>
+                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_class_building.php">建築物</a>攻擊加成+20%。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
@@ -213,7 +213,7 @@
              <h3>更新日誌</h3>
             <div class="hrn1"></div>
             <div class="n1">
-               <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+               <h3><em><a href="aok.php">帝王世紀</a></em></h3>
               <ul>
                 <li>升級到<a href="Capped_Ram.php">裝甲衝撞車</a>成本為300F/250G。</li>
               </ul>

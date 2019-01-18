@@ -52,7 +52,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="Infantry_Units.php">步兵</a>、<a href="bulding.php">建築物</a>、<a href="Battering_Ram.php">衝撞車</a>。</td>
+              <td class="tta4"><a href="Infantry_Units.php">步兵</a>、<a href="Armor_class_building.php">建築物</a>、<a href="Battering_Ram.php">衝撞車</a>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -92,14 +92,14 @@
             <tr>
               <td class="tta1" style="width:10%">開火速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>(+25%)</td>
+                <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>(+25%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
                 <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:對移動目標命中率上升
                 <br>
-                <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>:命中率提升到100%</td>
+                <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>:命中率提升到100%</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>

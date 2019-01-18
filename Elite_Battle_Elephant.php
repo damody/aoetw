@@ -74,7 +74,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4">近戰單位、<a href="building.php">建築物</a>
+              <td class="tta4">近戰單位、<a href="Armor_class_building.php">建築物</a>
               </td>
             </tr>
             <tr>
@@ -106,7 +106,7 @@
                 <br>
                 <img class="gg" src="img/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
                 <br>
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Manipur_Cavalry.php">曼尼普爾騎兵</a>:騎兵對<a href="Armor_Class_Building.php">建築</a>和
+                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Manipur_Cavalry.php">曼尼普爾騎兵</a>:騎兵對<a href="Armor_class_building.php">建築</a>和
                 <a
                 href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+3。<a href="Burmese.php">緬甸</a>限定
                   <br>
@@ -414,7 +414,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+10對<a href="Armor_class_stone_defense.php">石材建築類</a>
-                <br>+10對<a href="Armor_Class_Building.php">建築類</a>
+                <br>+10對<a href="Armor_class_building.php">建築類</a>
               </td>
             </tr>
             <tr>

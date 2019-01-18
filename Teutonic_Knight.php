@@ -59,7 +59,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="Skirmisher.php">矛兵</a>、<a href="bulding.php">建築物</a>和近戰單位。</td>
+              <td class="tta4"><a href="Skirmisher.php">矛兵</a>、<a href="Armor_class_building.php">建築物</a>和近戰單位。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -340,8 +340,8 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="img/Armor_Class_Infantry.php">步兵</a>
-                <br> <a href="img/Armor_Class_Unique_Unit.php">特殊單位</a>
+              <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a>
+                <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>

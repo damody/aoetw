@@ -895,7 +895,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Thumb_Ring.png" alt=""><a href="Thumb _Ring.php">拇指環</a>
+                  <img class="gg" style="margin: 2px;" src="img/Thumb_Ring.png" alt=""><a href="Thumb_Ring.php">拇指環</a>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">300F 250W</td>
@@ -1052,7 +1052,7 @@
               <tr>
                 <td class="tunitc6">
                   <img class="gg" src="img/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Berbers.php">柏柏</a> 
-                  <td class="tunitc4"><a href="Maghrabi Camels.php">馬格拉比駱駝</a>
+                  <td class="tunitc4"><a href="Maghrabi_Camels.php">馬格拉比駱駝</a>
                   </td>
                   <td class="tunitc5">700F 300G</td>
                   <td class="tunitc6">駱駝部隊獲得回血能力(每分鐘回15 HP)。</td>
