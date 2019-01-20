@@ -81,7 +81,7 @@ jkey = [
 {"kWord":"自爆筏", "kUrl":"Demolition_Raft .php", "kWeight":0},
 {"kWord":"神風船", "kUrl":"Demolition_Ship.php", "kWeight":0},
 {"kWord":"重型神風船", "kUrl":"Heavy_Demolition_Ship.php", "kWeight":0},
-{"kWord":"火炮戰船", "kUrl":"Cannon_Galleon .php", "kWeight":0},
+{"kWord":"火炮戰船", "kUrl":"Cannon_Galleon.php", "kWeight":0},
 {"kWord":"精銳火炮戰船", "kUrl":"Elite_Cannon_Galleon.php", "kWeight":0},
 {"kWord":"維京大戰船", "kUrl":"Longboat.php", "kWeight":0},
 {"kWord":"龜甲船", "kUrl":"Turtle_Ship.php", "kWeight":0},
