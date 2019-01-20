@@ -54,7 +54,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p3"></div>玩家1：</td>
+                  <div class="p3">玩家1：</div></td>
                 <td class="tc6" colspan="3">阿茲特克（綠色）</td>
               </tr>
               <tr>
@@ -62,10 +62,10 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p2"></div>玩家2：</td>
+                  <div class="p2">玩家2：</div></td>
                 <td class="tc6">特拉斯卡拉(紅色)阿茲特克</td>
                 <td class="tc6">
-                  <div class="p1"></div>玩家3：</td>
+                  <div class="p1">玩家3：</div></td>
                 <td class="tc6">科爾特斯(藍色)西班牙</td>
               </tr>
               <tr>
@@ -73,7 +73,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p8"></div>玩家4：</td>
+                  <div class="p8">玩家4：</div></td>
                 <td class="tc6">塔巴斯科(橙色)馬雅</td>
               </tr>
             </table>
